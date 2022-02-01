@@ -1,3 +1,5 @@
+- (^|/)docs?/_?(build|themes?|templates?|static)/
+
 def cripto(frase):
     translate = ""
     
